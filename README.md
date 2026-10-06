@@ -1,2 +1,3 @@
 # Learn_Git
 Learning About Git...
+This is my project, learning about how to use Git and Github.
